@@ -1,6 +1,6 @@
-# Behesht Supply Chain Holding
+# Paradise Supply Chain Holding
 
-Technology and digital infrastructure of **Behesht Supply Chain Holding**.
+Technology and digital infrastructure of **Paradise Supply Chain Holding**.
 
 We build and operate digital platforms, software systems, AI solutions, blockchain technologies, and infrastructure supporting our digital ecosystem.
 
@@ -39,10 +39,10 @@ Selected projects may be published as open-source software for developers and th
 
 ## Organization
 
-**Behesht Supply Chain Holding**
+**Paradise Supply Chain Holding**
 
 GitHub: https://github.com/iranpsc
 
 ---
 
-© Behesht Supply Chain Holding
+© Paradise Supply Chain Holding
